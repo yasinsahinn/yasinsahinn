@@ -1,6 +1,5 @@
 ### Hi there , I'm Yasin 👋
 
-![android-original-wordmark](https://user-images.githubusercontent.com/83670111/183898008-a34fed5b-164e-415c-ace4-e986b0c6d104.svg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasinsahinn&show_icons=true&theme=radical)
 
  🔭I’m currently improving my Android skill.
